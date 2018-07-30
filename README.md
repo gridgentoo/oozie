@@ -1,7 +1,11 @@
-Apache Oozie
+
+# Архитектура [Oozie] машинное обучение & Реверс инжениринг
+https://drive.google.com/drive/folders/1V2DzdSeG6Zo5d0qJ3IGRPCImEpZB3VoD
+
+# Apache Oozie
 =============
 
-What is Oozie
+# What is Oozie
 --------------
 
 Oozie is an extensible, scalable and reliable system to define, manage, schedule, and execute complex Hadoop workloads via web services. More specifically, this includes:

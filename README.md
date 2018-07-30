@@ -9,26 +9,6 @@ https://drive.google.com/drive/folders/1V2DzdSeG6Zo5d0qJ3IGRPCImEpZB3VoD
 https://www.tecmint.com/install-apache-oozie-for-cdh-in-centos/
 
 ---
-title: Использование рабочих процессов Hadoop Oozie в Azure HDInsight на основе Linux | Документация Майкрософт
-description: Использование Hadoop Oozie в HDInsight на основе Linux. Узнайте, как определить рабочий процесс и отправить задание для Oozie.
-services: hdinsight
-author: omidm1
-manager: jhubbard
-editor: cgronlun
-tags: azure-portal
-ms.assetid: d7603471-5076-43d1-8b9a-dbc4e366ce5d
-ms.service: hdinsight
-ms.custom: hdinsightactive
-ms.topic: conceptual
-ms.date: 06/26/2018
-ms.author: omidm
-ms.openlocfilehash: a1fd33ec83208dfd5d90a0fb11557c72a5f02e88
-ms.sourcegitcommit: 0fa8b4622322b3d3003e760f364992f7f7e5d6a9
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 06/27/2018
-ms.locfileid: "37019286"
----
 # <a name="use-oozie-with-hadoop-to-define-and-run-a-workflow-on-linux-based-azure-hdinsight"></a>Использование Oozie с Hadoop для определения и запуска рабочих процессов в Azure HDInsight под управлением Linux
 
 [!INCLUDE [oozie-selector](../../includes/hdinsight-oozie-selector.md)]

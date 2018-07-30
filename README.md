@@ -2,6 +2,12 @@
 # Архитектура [Oozie] машинное обучение & Реверс инжениринг
 https://drive.google.com/drive/folders/1V2DzdSeG6Zo5d0qJ3IGRPCImEpZB3VoD
 
+![Image alt](http://1.bp.blogspot.com/-V8JTbW-4vjE/UbvElx18LrI/AAAAAAAAAK0/Fxc6tH6OCns/s1600/Screen+Shot+2013-06-14+at+8.09.13+PM.png)
+![Image alt](https://devstacks.files.wordpress.com/2017/02/oozie-architecture-ong1.png?w=940)
+
+# Install and Configure Apache Oozie Workflow Scheduler for CDH 4.X on RHEL/CentOS 6/5
+https://www.tecmint.com/install-apache-oozie-for-cdh-in-centos/
+
 # Apache Oozie
 =============
 
